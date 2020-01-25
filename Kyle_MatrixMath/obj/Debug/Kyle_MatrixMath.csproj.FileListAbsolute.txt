@@ -1,0 +1,6 @@
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\Kyle_MatrixMath\Kyle_MatrixMath\bin\Debug\Kyle_MatrixMath.exe.config
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\Kyle_MatrixMath\Kyle_MatrixMath\bin\Debug\Kyle_MatrixMath.exe
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\Kyle_MatrixMath\Kyle_MatrixMath\bin\Debug\Kyle_MatrixMath.pdb
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\Kyle_MatrixMath\Kyle_MatrixMath\obj\Debug\Kyle_MatrixMath.exe
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\Kyle_MatrixMath\Kyle_MatrixMath\obj\Debug\Kyle_MatrixMath.pdb
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\Kyle_MatrixMath\Kyle_MatrixMath\obj\Debug\Kyle_MatrixMath.csprojResolveAssemblyReference.cache
